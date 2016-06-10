@@ -66,14 +66,14 @@
 \color[HTML]{292929} % Default foreground color
 \definecolor{link}{HTML}{F26011} % Hyperlinks
 \hypersetup{colorlinks,breaklinks,urlcolor=link,linkcolor=link}
-\setkomafont{disposition}{\color{MidnightBlue}}
+\setkomafont{disposition}{\color{RedOrange}}
 \setkomafont{section}{\scshape\Large\mdseries}
 
 % In tccv \part must contain the subject of the curriculum vitae.
 % The command will start a new page and output in onecolumn the
 % subject (first and last name) with the text from the optional
 % argument underneath it
-\renewcommand\part[2][Student]{%
+\renewcommand\part[2][\color{Cerulean}Student]{%
     \twocolumn[%
     \begin{center}
 	\vskip-\lastskip%
@@ -173,7 +173,7 @@
     \unbaseline=\dimexpr-\baselinestretch\baselineskip\relax
     \renewcommand\item[2]{%
 	\textsc{##1} & {\raggedright ##2\medskip\\}\\[\unbaseline]}
-    \tabularx{\linewidth}{rX}}
+    \tabularx{\linewidth}{lX}}
     {\endtabularx}
     
 
