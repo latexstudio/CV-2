@@ -12,7 +12,7 @@ So that i can keep trak of the changes and allwayse improuve it and/or create di
 
 So that I can keep track of changes and continuosly improve it and/or create diffrent CVs for diffrent needs and fields as I am intrested in **many fields**.
 
-# TODO:
+# TODO
 
 - [x] Add the following quote to my CV:
 
