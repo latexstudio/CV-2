@@ -3,12 +3,6 @@
 A repository for my CV.
 
 # Why on Github?
-<<<<<<< HEAD
-So that i can keep trak of the changes and allwayse improuve it and/or create diffrent CVs for diffrent need and field as i am intrested in **many fields**
-#TODO
-- [x] add this quote on my CV
-=======
->>>>>>> origin/master
 
 So that I can keep track of changes and continuosly improve it and/or create diffrent CVs for diffrent needs and fields as I am intrested in **many fields**.
 
